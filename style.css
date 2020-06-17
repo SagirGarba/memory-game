@@ -58,7 +58,7 @@
      .front-face,
   .back-face {
    
-    padding: 5px;
+    padding: 10px;
   }
     body {
         height: 80vh;
@@ -73,7 +73,7 @@
     }
     
     .footer {
-    margin-top: 40px;
+    margin-top: 60px;
    
 }
 
